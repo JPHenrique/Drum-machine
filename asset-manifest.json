@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/JPHenrique/hello.git/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/JPHenrique/hello.git/static/js/main.c840a302.chunk.js",
-    "main.js.map": "/JPHenrique/hello.git/static/js/main.c840a302.chunk.js.map",
-    "runtime-main.js": "/JPHenrique/hello.git/static/js/runtime-main.cd6f9956.js",
-    "runtime-main.js.map": "/JPHenrique/hello.git/static/js/runtime-main.cd6f9956.js.map",
-    "static/js/2.caffb6a1.chunk.js": "/JPHenrique/hello.git/static/js/2.caffb6a1.chunk.js",
-    "static/js/2.caffb6a1.chunk.js.map": "/JPHenrique/hello.git/static/js/2.caffb6a1.chunk.js.map",
-    "static/js/3.0f27801b.chunk.js": "/JPHenrique/hello.git/static/js/3.0f27801b.chunk.js",
-    "static/js/3.0f27801b.chunk.js.map": "/JPHenrique/hello.git/static/js/3.0f27801b.chunk.js.map",
-    "index.html": "/JPHenrique/hello.git/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/JPHenrique/hello.git/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.caffb6a1.chunk.js.LICENSE.txt": "/JPHenrique/hello.git/static/js/2.caffb6a1.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/JPHenrique/hello.git/static/media/logo.6ce24c58.svg"
+    "main.css": "/hello/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/hello/static/js/main.c840a302.chunk.js",
+    "main.js.map": "/hello/static/js/main.c840a302.chunk.js.map",
+    "runtime-main.js": "/hello/static/js/runtime-main.e015b57f.js",
+    "runtime-main.js.map": "/hello/static/js/runtime-main.e015b57f.js.map",
+    "static/js/2.caffb6a1.chunk.js": "/hello/static/js/2.caffb6a1.chunk.js",
+    "static/js/2.caffb6a1.chunk.js.map": "/hello/static/js/2.caffb6a1.chunk.js.map",
+    "static/js/3.0f27801b.chunk.js": "/hello/static/js/3.0f27801b.chunk.js",
+    "static/js/3.0f27801b.chunk.js.map": "/hello/static/js/3.0f27801b.chunk.js.map",
+    "index.html": "/hello/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/hello/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.caffb6a1.chunk.js.LICENSE.txt": "/hello/static/js/2.caffb6a1.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/hello/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.cd6f9956.js",
+    "static/js/runtime-main.e015b57f.js",
     "static/js/2.caffb6a1.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
     "static/js/main.c840a302.chunk.js"
